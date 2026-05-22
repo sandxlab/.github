@@ -32,8 +32,6 @@ Raw fragmented data  →  [sandx-embed]  →  [sandx-er]  →  [sandx-graph]
 
 ## Positioning
 
-SandX is not a token project, a meme coin, or a generic AI SaaS.
-
 SandX is **deep systems infrastructure** — built for engineers and researchers who process fragmented, probabilistic, real-world data at scale.
 
 > *Transforming fragmented signals into coherent computational meaning.*
